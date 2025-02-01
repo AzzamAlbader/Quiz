@@ -454,7 +454,7 @@ export default function ModernGrammarSite() {
       >
         <Container maxWidth="md" sx={{ textAlign: "center" }}>
           <Typography variant="h6" gutterBottom sx={{ fontWeight: 700 }}>
-            Created by Hothil, Email: Hothil@hothil.com
+            Created by Huthayl, Email: Huthayl@hotmail.com
           </Typography>
         </Container>
       </Box>
